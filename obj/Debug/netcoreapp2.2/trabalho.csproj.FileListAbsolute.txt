@@ -1,0 +1,11 @@
+H:\workspace\trabalho\bin\Debug\netcoreapp2.2\trabalho.deps.json
+H:\workspace\trabalho\bin\Debug\netcoreapp2.2\trabalho.runtimeconfig.json
+H:\workspace\trabalho\bin\Debug\netcoreapp2.2\trabalho.runtimeconfig.dev.json
+H:\workspace\trabalho\bin\Debug\netcoreapp2.2\trabalho.dll
+H:\workspace\trabalho\bin\Debug\netcoreapp2.2\trabalho.pdb
+H:\workspace\trabalho\obj\Debug\netcoreapp2.2\trabalho.csprojAssemblyReference.cache
+H:\workspace\trabalho\obj\Debug\netcoreapp2.2\trabalho.csproj.CoreCompileInputs.cache
+H:\workspace\trabalho\obj\Debug\netcoreapp2.2\trabalho.AssemblyInfoInputs.cache
+H:\workspace\trabalho\obj\Debug\netcoreapp2.2\trabalho.AssemblyInfo.cs
+H:\workspace\trabalho\obj\Debug\netcoreapp2.2\trabalho.dll
+H:\workspace\trabalho\obj\Debug\netcoreapp2.2\trabalho.pdb
