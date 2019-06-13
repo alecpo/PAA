@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\workspace\\trabalho\\trabalho.csproj": {}
+    "H:\\workspace\\trabalho-lucro-por-custo\\trabalho.csproj": {}
   },
   "projects": {
-    "H:\\workspace\\trabalho\\trabalho.csproj": {
+    "H:\\workspace\\trabalho-lucro-por-custo\\trabalho.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\workspace\\trabalho\\trabalho.csproj",
+        "projectUniqueName": "H:\\workspace\\trabalho-lucro-por-custo\\trabalho.csproj",
         "projectName": "trabalho",
-        "projectPath": "H:\\workspace\\trabalho\\trabalho.csproj",
+        "projectPath": "H:\\workspace\\trabalho-lucro-por-custo\\trabalho.csproj",
         "packagesPath": "C:\\Users\\aless\\.nuget\\packages\\",
-        "outputPath": "H:\\workspace\\trabalho\\obj\\",
+        "outputPath": "H:\\workspace\\trabalho-lucro-por-custo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

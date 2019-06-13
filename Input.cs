@@ -26,6 +26,6 @@ namespace trabalho
 
         public int lucro { get; set; }
 
-        public int receita { get { return custo + lucro; } }
+        public float relacao { get { return (float)lucro / (float)custo; } }
     }
 }

@@ -58,7 +58,6 @@ namespace trabalho
 
             Console.WriteLine("");
             Console.WriteLine("");
-            Console.WriteLine("");
             Console.WriteLine("###########################  SOLUCAO GULOSA  ###########################");
             Print(outputGuloso);
 
