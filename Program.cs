@@ -51,8 +51,8 @@ namespace trabalho
             }
 
             Guloso guloso = new Guloso();
-            //Dinamico dinamico = new Dinamico();
-
+            Dinamico dinamico = new Dinamico();
+/*
             //Solução gulosa
             List<Output> outputGuloso = guloso.Start(listInput);
 
@@ -60,13 +60,13 @@ namespace trabalho
             Console.WriteLine("");
             Console.WriteLine("###########################  SOLUCAO GULOSA  ###########################");
             Print(outputGuloso);
-
-           /* Console.WriteLine("");
+*/
+            Console.WriteLine("");
             Console.WriteLine("");
             Console.WriteLine("");
             List<Output> outputDinamica = dinamico.Start(listInput);
             Console.WriteLine("###########################  SOLUCAO DINAMICA ###########################");
-            Print(outputDinamica);*/ 
+            Print(outputDinamica);
         }
 
         private static void Print(List<Output> listOut)

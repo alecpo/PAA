@@ -20,3 +20,14 @@ H:\workspace\trabalho-lucro-por-custo\obj\Debug\netcoreapp2.2\trabalho.AssemblyI
 H:\workspace\trabalho-lucro-por-custo\obj\Debug\netcoreapp2.2\trabalho.AssemblyInfo.cs
 H:\workspace\trabalho-lucro-por-custo\obj\Debug\netcoreapp2.2\trabalho.dll
 H:\workspace\trabalho-lucro-por-custo\obj\Debug\netcoreapp2.2\trabalho.pdb
+H:\workspace\PAA\bin\Debug\netcoreapp2.2\trabalho.deps.json
+H:\workspace\PAA\bin\Debug\netcoreapp2.2\trabalho.runtimeconfig.json
+H:\workspace\PAA\bin\Debug\netcoreapp2.2\trabalho.runtimeconfig.dev.json
+H:\workspace\PAA\bin\Debug\netcoreapp2.2\trabalho.dll
+H:\workspace\PAA\bin\Debug\netcoreapp2.2\trabalho.pdb
+H:\workspace\PAA\obj\Debug\netcoreapp2.2\trabalho.csprojAssemblyReference.cache
+H:\workspace\PAA\obj\Debug\netcoreapp2.2\trabalho.csproj.CoreCompileInputs.cache
+H:\workspace\PAA\obj\Debug\netcoreapp2.2\trabalho.AssemblyInfoInputs.cache
+H:\workspace\PAA\obj\Debug\netcoreapp2.2\trabalho.AssemblyInfo.cs
+H:\workspace\PAA\obj\Debug\netcoreapp2.2\trabalho.dll
+H:\workspace\PAA\obj\Debug\netcoreapp2.2\trabalho.pdb

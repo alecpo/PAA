@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\workspace\\trabalho-lucro-por-custo\\trabalho.csproj",
+      "projectUniqueName": "H:\\workspace\\PAA\\trabalho.csproj",
       "projectName": "trabalho",
-      "projectPath": "H:\\workspace\\trabalho-lucro-por-custo\\trabalho.csproj",
+      "projectPath": "H:\\workspace\\PAA\\trabalho.csproj",
       "packagesPath": "C:\\Users\\aless\\.nuget\\packages\\",
-      "outputPath": "H:\\workspace\\trabalho-lucro-por-custo\\obj\\",
+      "outputPath": "H:\\workspace\\PAA\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
